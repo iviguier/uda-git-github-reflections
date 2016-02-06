@@ -13,3 +13,11 @@ repository, the uncommitted files and may contain untracked files.
 
 
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+Keep using "git diff" and "git diff --staged" until you've what you need in
+the staging area and nothing else.
+
+
+
