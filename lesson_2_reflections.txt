@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The .git subdir gets created.
+
+
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+repository houses all versions committed.  staging area is just a list
+of currently uncommitted files.  Working directory contains the
+repository, the uncommitted files and may contain untracked files.
+
+
+
