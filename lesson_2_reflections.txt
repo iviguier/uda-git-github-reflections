@@ -21,3 +21,7 @@ the staging area and nothing else.
 
 
 
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+Different workstreams co-occurring in the codebase.
