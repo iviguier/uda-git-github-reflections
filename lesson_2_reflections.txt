@@ -38,3 +38,11 @@ the diagram the way we do?
 
 Single branch containing the combined code line from the n branches merged.
 The diagram shows exactly that.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+In most instances, conflicts won't occur as different folks work on different
+pieces of the project.  So doing the auto merges takes care of the tedium.
