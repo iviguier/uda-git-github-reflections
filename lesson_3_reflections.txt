@@ -10,3 +10,17 @@ automatically stay up-to-date with your remote repository?
 
 There could be situations where you're working on something that someone
 else is working on.  Automatic syncs could make things more confusing.
+
+
+
+Describe the differences between forks, clones, and branches. When would
+you use one instead of another?
+
+fork = make a fork of someone else's repository on github. use it to
+"have your own copy" of a repo to work on.
+clone = make a copy of a remote to your local. Use it to do actual work
+branch = start new stream of modifications (commits) for, e.g., new
+features.
+
+
+
